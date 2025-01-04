@@ -1,0 +1,10 @@
+the I have opened an account in to Hack the box website
+first I install the kali Linux
+then ii have connect with resource
+then I have connect with the VPN
+
+how to exploit thing
+
+to change press esc
+the shift (:)
+the wq!

@@ -1,0 +1,39 @@
+nmap scan -p -sV -sC -oV namp.txt -vvv
+
+cat nmap.txt
+-----------------------------------------
+vim /etc/
+
+sudo vim /etc/hosts
+
+mv ~/Downloads/instant.apk .
+
+ls
+
+file instant.apk
+
+apktool d instant.apk
+
+ls
+
+cd instant
+
+ls
+
+code .
+-----------------------------------------
+install Smalise in Vs code
+-----------------------------------------
+on browser - HackTricks
+go to - Android APK Checklist
+-----------------------------------------
+in vs code - res - xml - network_security_config.xml - swagger-ui.instant.htb
+
+terminal -> sudo vin /etc/hosts
+put  swagger-ui.instant.htb infront of instant.htb
+------------------------------------------
+
+then open website - http://mywalletv1.instant.htb/index.html
+
+then put on website - http://swagger-ui.instant.htb
+ten open - instant Wallet website
